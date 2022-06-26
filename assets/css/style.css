@@ -94,10 +94,26 @@ nav ul li {
     align-items: center;
 }
 
+.postres:hover{
+  transform: scale(1.2);
 
-.postres {
+}
+
+.tortas:hover{
+    transform: scale(1.2);
+  
+  }
+
+.bombones:hover{
+    transform: scale(1.2);
+  
+  }
+
+
+.postres{
     margin: 50px;
     width: 150px;
+
 }
 
 
@@ -194,4 +210,8 @@ footer {
     color: tomato;
     padding-top: 50px;
     font-size: 50px;
+}
+
+.box{
+
 }
